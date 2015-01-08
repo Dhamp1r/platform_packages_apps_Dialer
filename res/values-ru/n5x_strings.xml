@@ -30,4 +30,9 @@
   <string name="people_lookup_provider_title">Поставщик поиска данных о людях</string>
   <string name="reverse_lookup_provider_title">Поставщик обратного просмотра</string>
   <string name="cyngn_reverse_lookup_provider_name">Китайский</string>
+  <string name="incall_vibration_category_title">Вибрация вызовов</string>
+  <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
+  <string name="incall_vibrate_hangup_title">Вибрация при отключении</string>
+  <string name="incall_vibrate_45_title">Вибрация каждую минуту</string>
+  <string name="incall_vibrate_45_summary">При исходящем вызове на 45 секунде и последующей каждой минуте будет издаваться вибрация</string>
 </resources>
